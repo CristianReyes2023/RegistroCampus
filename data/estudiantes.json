@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "3411",
+            "nombres": "CRISTIAN",
+            "apellidos": "REYES MORENO",
+            "edadEstudiante": 24,
+            "correoElectronico": "CRISTIAN@",
+            "ciudadDeOrigen": "BUCARAMANGA",
+            "estadoCivil": "SOLTERO",
+            "genero": "MASCULINO",
+            "numeroTelefonico": "32143"
+        },
+        {
+            "id": "4012",
+            "nombres": "JULIAN ORLANDO",
+            "apellidos": "REYES MORENO",
+            "edadEstudiante": 29,
+            "correoElectronico": "JULIAN254@",
+            "ciudadDeOrigen": "BUCARAMANGA",
+            "estadoCivil": "CASADO",
+            "genero": "MASCULINO",
+            "numeroTelefonico": "345204"
+        },
+        {
+            "id": "4013",
+            "nombres": "JUAN FELIPE",
+            "apellidos": "REYES SANJUAN",
+            "edadEstudiante": 16,
+            "correoElectronico": "PIPEFDS@",
+            "ciudadDeOrigen": "SANTA MARTA",
+            "estadoCivil": "SOLTERO",
+            "genero": "MASCULINO",
+            "numeroTelefonico": "34502000",
+            "idAcudiente": "4044",
+            "nombreAcudiente": "Gustavo Andres",
+            "parentesco": "REYES ACEVEDO"
+        }
+    ]
+}
